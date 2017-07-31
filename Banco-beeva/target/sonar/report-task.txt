@@ -1,0 +1,6 @@
+projectKey=com.beeva.banco:Banco-beeva
+serverUrl=http://localhost:9000
+serverVersion=6.4.0.25310
+dashboardUrl=http://localhost:9000/dashboard/index/com.beeva.banco:Banco-beeva
+ceTaskId=AV1cWpnmzVmBsNKmD9i6
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV1cWpnmzVmBsNKmD9i6
